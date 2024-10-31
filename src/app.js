@@ -1,4 +1,4 @@
-zz// require("./db/conn");
+// require("./db/conn");
 // const express = require("express");
 // const router = require("./routes/routes");
 // const bcrypt = require("bcryptjs");
